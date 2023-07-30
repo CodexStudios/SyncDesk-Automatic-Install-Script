@@ -1,0 +1,16 @@
+Welcome To SyncDesk Automatic Install Script
+
+First things first
+
+I Do NOT Own or am responsible for SynkDesk maintenance if there is a problem with the utility I am not usually the one that handles it
+Please keep that in mind when using this script
+I am purely creating a script to install it easily
+It is my utmost priority to ensure you can install things and run commands as efficiently as posible
+
+Now how to install the script 
+
+1. Download the Script Via Github
+2. cd into the directory with the script in
+3. run chmod +x ./SyncDeskAIS.sh
+4. Script installed run it with ./SyncDeskAIS.sh
+5. The install script is now ready to use not using the sync desk is another thing and not part of this tutorial
